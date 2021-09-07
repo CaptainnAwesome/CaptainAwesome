@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CaptainnAwesome
+- 👋 Hi, I’m @CaptainAwesome
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on coding crypto trading bots.
